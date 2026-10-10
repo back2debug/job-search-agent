@@ -1,0 +1,20 @@
+# Private job search data
+/companies/
+/context.md
+/cv-master.md
+/stories.md
+/learnings.md
+*.pdf
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS and editors
+.DS_Store
+*.swp
+*~
